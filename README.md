@@ -1,0 +1,1 @@
+C'est un jeu en peu du principe de Candz Crush. On choisit les circles du même couleur qui sont situés un par un en horizontal ou en vertical. Les circles qui sont plus haut tombent et des nouveaux circles apparaissent.
